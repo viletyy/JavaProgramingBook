@@ -3,7 +3,7 @@
  * @Date: 2021-09-01 18:44:39
  * @LastEditors: viletyy
  * @Author: viletyy
- * @LastEditTime: 2021-09-01 18:52:11
+ * @LastEditTime: 2021-09-02 10:15:25
  * @FilePath: /11/src/com/lzw/InterfaceInner.java
  */
 package com.lzw;
@@ -35,5 +35,32 @@ class OuterClass2 {
 
   public OutInterface doit() {
     return new InnerClass("访问内部类构造方法");
+  }
+}
+
+interface OutInterface2 {
+  
+}
+
+class OuterClass3 {
+  public OutInterface2 doit(final String x) {
+    class InnerClass2 implements OutInterface2 {
+      InnerClass2(String s) {
+        s = x;
+        System.out.println(s);
+      }
+    }
+    return new InnerClass2("doit");
+  }
+}
+
+class OuterClass4 {
+  public OutInterface2 doit() {
+    return new OutInterface2(){
+      private int i = 0;
+      public int getValue() {
+        return i;
+      }
+    };
   }
 }
