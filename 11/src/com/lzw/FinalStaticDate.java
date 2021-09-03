@@ -1,9 +1,9 @@
 /**
- * @Description: Do not edit
+ * @Description: 定义各种类型的final静态变量
  * @Date: 2021-09-01 17:25:14
  * @LastEditors: viletyy
  * @Author: viletyy
- * @LastEditTime: 2021-09-01 17:30:44
+ * @LastEditTime: 2021-09-02 15:42:47
  * @FilePath: /11/src/com/lzw/FinalStaticDate.java
  */
 package com.lzw;

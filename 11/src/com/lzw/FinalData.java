@@ -1,9 +1,9 @@
 /**
- * @Description: Do not edit
+ * @Description: 定义各种类型的final变量
  * @Date: 2021-09-01 17:08:56
  * @LastEditors: viletyy
  * @Author: viletyy
- * @LastEditTime: 2021-09-01 17:18:27
+ * @LastEditTime: 2021-09-02 15:42:13
  * @FilePath: /11/src/com/lzw/FinalData.java
  */
 package com.lzw;

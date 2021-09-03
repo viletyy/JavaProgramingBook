@@ -1,9 +1,9 @@
 /**
- * @Description: Do not edit
+ * @Description: 匿名内部类
  * @Date: 2021-09-02 10:37:27
  * @LastEditors: viletyy
  * @Author: viletyy
- * @LastEditTime: 2021-09-02 15:16:43
+ * @LastEditTime: 2021-09-02 15:49:31
  * @FilePath: /11/src/com/lzw/AnonymityInnerClass.java
  */
 package com.lzw;

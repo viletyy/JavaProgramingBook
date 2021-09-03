@@ -1,9 +1,9 @@
 /**
- * @Description: Do not edit
+ * @Description: 内部类向上转型为接口、局部内部类、匿名内部类
  * @Date: 2021-09-01 18:44:39
  * @LastEditors: viletyy
  * @Author: viletyy
- * @LastEditTime: 2021-09-02 10:15:25
+ * @LastEditTime: 2021-09-02 15:48:19
  * @FilePath: /11/src/com/lzw/InterfaceInner.java
  */
 package com.lzw;

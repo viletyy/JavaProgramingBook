@@ -1,10 +1,10 @@
 /**
- * @Description: Do not edit
+ * @Description: 使用import导入静态成员
  * @Date: 2021-09-01 16:59:15
  * @LastEditors: viletyy
  * @Author: viletyy
- * @LastEditTime: 2021-09-01 17:00:36
- * @FilePath: /11.01/src/com/lzw/ImportTest.java
+ * @LastEditTime: 2021-09-02 15:41:19
+ * @FilePath: /11/src/com/lzw/ImportTest.java
  */
 package com.lzw;
 

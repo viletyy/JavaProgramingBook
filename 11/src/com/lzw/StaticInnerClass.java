@@ -1,9 +1,9 @@
 /**
- * @Description: Do not edit
+ * @Description: 静态内部类
  * @Date: 2021-09-02 10:17:13
  * @LastEditors: viletyy
  * @Author: viletyy
- * @LastEditTime: 2021-09-02 15:29:50
+ * @LastEditTime: 2021-09-02 15:48:50
  * @FilePath: /11/src/com/lzw/StaticInnerClass.java
  */
 package com.lzw;

@@ -1,9 +1,9 @@
 /**
- * @Description: Do not edit
+ * @Description: 成员内部类
  * @Date: 2021-09-01 18:08:13
  * @LastEditors: viletyy
  * @Author: viletyy
- * @LastEditTime: 2021-09-01 18:38:21
+ * @LastEditTime: 2021-09-02 15:44:04
  * @FilePath: /11/src/com/lzw/OuterClass.java
  */
 package com.lzw;
